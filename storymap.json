@@ -1,0 +1,88 @@
+{
+  "width": 800,
+  "height": 600,
+  "calculate_zoom": true,
+  "storymap": {
+    "language": "en",
+    "map_type": "zoomify",
+    "map_as_image": true,
+    "zoomify": {
+
+            "path": "https://melangie.github.io/storytelling/",
+
+            "width": 1536,                
+
+            "height": 1024,                 
+
+            "tolerance": 0.05 
+
+        },
+    "slides": [
+      {
+        "text": {
+          "headline": "The Lost Lines of Vitruvia",
+          "text": "<p>Long ago, a visitor brought a mysterious drawing to the island. Then it vanished.</p>"
+        },
+        "media": {
+          "url": "https://melangie.github.io/storytelling/storymap.png",
+          "caption": "Golden forest near the waterfall",
+          "credit": "Melanie Frauendorfer"
+        },
+        "location": {
+    "type": "image",
+    "zoom": 3,
+    "x": 0.2,
+    "y": 0.25
+  }   
+},
+      {
+        "text": {
+          "headline": "Forest Rumors",
+          "text": "<p>Some say it was hidden behind a waterfall in the woods, guarded by golden trees.</p>"
+        },
+        "location": {
+          "type": "image",
+          "zoom": 3,
+          "x": 0.15,
+          "y": 0.3
+        }
+      },
+      {
+        "text": {
+          "headline": "A Fake for Sale",
+          "text": "<p>Redd was spotted selling a suspicious drawing... but it lacked the coffee stain.</p>"
+        },
+        "location": {
+          "type": "image",
+          "zoom": 3,
+          "x": 0.15,
+          "y": 0.85
+        }
+      },
+      {
+        "text": {
+          "headline": "The Observatory Clue",
+          "text": "<p>Inside a forgotten telescope case, the real Lines of Vitruvia waited in silence.</p>"
+        },
+        "location": {
+          "type": "image",
+          "zoom": 3,
+          "x": 0.8,
+          "y": 0.25
+        }
+      },
+      {
+        "text": {
+          "headline": "Back to the Museum",
+          "text": "<p>The villagers rejoiced. The drawing was returned, and the mystery finally solved.</p>"
+        },
+        "location": {
+          "type": "image",
+          "zoom": 2,
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    ]
+  }
+}
